@@ -4,12 +4,12 @@
 How to use this script?
 
 ```
-git clone https://github.com/Nandanrmenon/scripts.git
+git clone https://github.com/AffanTheBest/android-scripts.git
 ```
 
 Then run 
 ```
-cd script 
+cd android-script 
 . setup.sh
 ```
 
